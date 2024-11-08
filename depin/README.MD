@@ -1,5 +1,7 @@
 # Depin 参与方式
 
+[在线地址(更新中)](https://github.com/TreeNewKing/airdropSearch/tree/master/depin)
+
  [项目指南](Depin赛道：Gradient，grass等六大挂机挖矿项目操作教程——chiroukyc(1).pdf) 
 
 [ads浏览器下载](https://share.adspower.net/kf7wG3)
